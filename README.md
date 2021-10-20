@@ -9,4 +9,4 @@ In this assignment I used a stack to determine if an input file is properly bala
 
 Our assignment was to implement the `Check` function to read the input file and update the current state of the stack. Additonally, our assignment was also to implement the `checkMatch` function to check the current state of the stack and provide any necessary output. Once the process is finished the word "Done" is outputted on a single line. 
 
-<-- (The program only detects unbalanced pairs, it does not recover from them.) -->
+<!-- (The program only detects unbalanced pairs, it does not recover from them.) -->
